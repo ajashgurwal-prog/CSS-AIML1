@@ -1,0 +1,64 @@
+p{
+   color:rgb(195, 0, 255) ;
+   background-color: burlywood;
+   text-align: center;
+}
+.p{
+    color:crimson;
+    background-color:darkgreen;
+}
+#jk{
+    font-size: large;
+}
+div{
+    height: 50px;
+    width: 40px;
+    background-color: rgb(255, 255, 255);
+    padding:25px;
+    border: 5px solid rgb(40, 106, 34) ;
+    margin-top: 20px;
+}
+#abc{
+    height: 234px;
+    width: 250px;
+    background-color: rgb(241, 255, 45);
+    padding:25px;
+    border: 5px solid rgb(194, 69, 69) ;
+    margin-top: 20px;
+
+}
+#def{
+    height: 150px;
+    width: 130px;
+    background-color: rgb(154, 29, 29);
+    padding:25px;
+    border: 5px solid rgb(142, 25, 178) ;
+    margin-top: 20px;
+}
+#ghi{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(46, 26, 199);
+    padding:25px;
+    border: 5px solid rgb(118, 47, 172) ;
+    margin-top: 20px;
+}
+#jkl{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(234, 234, 10);
+    padding:25px;
+    border: 5px solid rgb(42, 91, 165) ;
+    margin-top: 40px;
+}#
+.CONTAINER{
+    display: flex;
+    HEIGHT: 200px;
+    WIDTH: 800px;
+    background-color: aqua;
+}
+.ITEM{
+    height: 100px;
+    width: 100px;
+    
+}
