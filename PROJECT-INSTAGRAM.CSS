@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #121212;
+    color: white;
+    
+}
+/* Instagram  */
+.instagram{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+#logo{
+    margin-bottom: 3px;
+    margin-top: 13px;
+}
+#more{
+    margin-top: 90px;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+display: flex;
+    
+}
+
+
+.menu-bar .items .material-symbols-outlined{
+    margin-right: 20px;
+    font-size: 28px;
+    
+}
+
+
+.menu-bar .items{
+display: flex;
+align-items: center;
+text-align: center;
+font-weight: 70;
+padding: 12px;
+padding-left: 20px;
+font-size: 17px;
+font-family: "Google Sans", "Google Sans Text", Roboto, Arial, sans-serif;
+margin-left: 2px;
+margin: 5px;
+}
+.menu-bar{
+    height: 100vh;
+    width: 16%;
+    border-right: 1px solid #504949;
+}
+/* post section */
+..post{
+    font-family: "Google Sans", "Google Sans Text", Roboto, Arial, sans-serif;
+
+    width: 55%;
+    height: 100vh;
+    /* background-color: yellowgreen; */
+}
+
+.post .story .items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.post .story{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.post .story .items .profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.post .story .items .profile .img{
+    background-image: conic-gradient(#feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5, #feda75);
+    padding: 2px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.post .story .items .profile .img img{
+ height: 60px;
+ width: 60px;
+ border-radius: 50%;
+ object-fit: cover;
+ display: block;
+ padding: 3px;
+}
+
+.post .main_post{
+    height: 75vh;
+    width: 70%;
+    margin: auto;
+}
+
+.post .main_post .profile{
+    margin: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+
+.post .main_post .profile img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 2px;
+    box-sizing: border-box;
+    display: inline-block;
+    background-image: conic-gradient(#feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5, #feda75);
+}
+
+.post .main_post .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post .main_post .img img{
+    height: auto;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.post .main_post .engagement{
+    margin-right: 0px;
+    margin: 10px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post .main_post .engagement .material-symbols-outlined{
+    font-size: 1.8rem;
+}
+
+.post .main_post .engagement .left{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+/* suggestion - section */
+.suggestion_section{
+    width: 25%;
+    height: 100vh;
+    font-family: "Google Sans", "Google Sans Text", Roboto, Arial, sans-serif;
+
+    /* background-color: blanchedalmond; */
+}
+
+.suggestion_section .suggestion{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.suggestion_section .profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.suggestion_section .profile .img img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.suggestion_section .suggestion .follow{
+    color: blueviolet;
+}
+
+.suggestion_section .suggestion .profile p{
+    color: #bcbab7;
+}
+
+.suggestion_section .suggestion .see{
+    color: white;
+}
+
+.m{
+    margin-top: 40px;
+}
